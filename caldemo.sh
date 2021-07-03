@@ -1,1 +1,1 @@
-cal 2021
+sudo cal 2021
